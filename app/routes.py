@@ -20,7 +20,7 @@ def home():
             <title> Home - Sample Flask App</title>
         </head>
         <body>
-            <div><a href="/test">Test Page</a></div>
+            <gdiv><a href="/test">Test Page</a></div>
             <div><a href="/test2">Test2 Page</a></div>
     """ \
     + a + \
